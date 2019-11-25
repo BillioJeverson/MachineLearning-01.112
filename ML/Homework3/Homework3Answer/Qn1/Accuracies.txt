@@ -1,0 +1,4 @@
+0 = Accuracy = 84.375% (27/32) (classification)
+1 = Accuracy = 81.25% (26/32) (classification)
+2 = Accuracy = 90.625% (29/32) (classification)
+3 = Accuracy = 43.75% (14/32) (classification)
